@@ -10,7 +10,6 @@
 ## ✨ Features
 
 - ⚡ **One-Click Mark All as Read:** Instantly clear unread badges across selected folders, entire accounts, or all subfolders.
-- ⌨️ **Customizable Keyboard Shortcuts:** Trigger the command instantly without touching your mouse.
 - 🎨 **Seamless Integration:** Designed to match Thunderbird's native theme (supports both Light and Dark modes).
 - 🔒 **Privacy First:** Zero telemetry, no external network requests, and open-source.
 
