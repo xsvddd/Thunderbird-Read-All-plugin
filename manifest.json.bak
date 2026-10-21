@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Oznacz folder jako przeczytany",
+  "version": "1.0",
+  "description": "Dodaje opcję 'Oznacz wszystkie jako przeczytane' do menu kontekstowego folderu.",
+  "permissions": [
+    "menus",
+    "accountsRead",
+    "messagesRead",
+    "messagesUpdate"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
